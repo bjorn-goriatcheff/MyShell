@@ -410,25 +410,4 @@ char* concat_filename_simple(char* nom1, char* nom2)
 }
 
 
-/*
- * 
- * 
- * 
- * 
- * 
- *  Reste à coder
- * 
- * history n    &&     !n
- * touch -m     && touch plusieurs fichiers   &&   touch création de fichiers
- * cat -n   &&   cat plusieurs fichiers        && pas de cat stdin
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- */
+
